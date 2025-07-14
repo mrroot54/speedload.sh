@@ -3,6 +3,12 @@ speedload.sh – Smart Network-Aware File Downloader      speedload.sh is a powe
 
 
 
+📌 Usage Example
+chmod +x speedload.sh
+./speedload.sh https://example.com/file.iso
+
+
+
 
 
 ✨ Key Features
