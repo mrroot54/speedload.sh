@@ -2,8 +2,8 @@
 
 # ==============================
 # 🔥 Smart Download Script
-# Author: YourName
-# Date: $(date)
+# Author: Mr_root_54
+# Date: 14/7/2025 
 # ==============================
 
 # ====== COLOUR FUNCTIONS ======
